@@ -1,7 +1,7 @@
 <h1>Go Finance</h1>
-<h3>📋 App para listar suas habilidades, construído com base no curso Ignite da Rocketseat.</h3>
+<h3>📊 App para gerenciar as finanças, construído com base no curso Ignite da Rocketseat.</h3>
 
-<h4> Aplicativo de cadastro de capacidades. </h4>
+<h4> Aplicativo para administrar seu salário e seus gastos. </h4>
 
 <h4>Tecnologias utilizadas:</h4>
 <h4>- React Native -> v0.69</h4>
@@ -11,9 +11,9 @@
 <br>
 _________________________________________________________________________________________________
 
-<h3>📋 App to list your skills, built on Rocketseat's Ignite course. </h3>
+<h3>📊 App to manage finances, built on Rocketseat's Ignite course. </h3>
 
-<h4> Capacity registration application. </h4>
+<h4> Application to manage your salary and expenses. </h4>
 
 <h4> Technologies used: </h4>
 <h4>- React Native -> v0.69</h4>
